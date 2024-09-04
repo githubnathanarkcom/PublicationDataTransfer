@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\pubsiteapi\\controllers\\pubsitedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|solutionrelative:pubsiteapi\\controllers\\pubsitedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\pubsiteapi\\controllers\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|solutionrelative:pubsiteapi\\controllers\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\pubsiteapi\\controllers\\ccddatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|solutionrelative:pubsiteapi\\controllers\\ccddatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|c:\\office\\terminus\\terminusnew\\terminus\\pubsite_api_code - eventuallyterminusdatamigration\\tfs new api\\pubsiteapi\\controllers\\pubsitedatanewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7633EEE0-ED72-4E28-8F3B-F4CB650CFDA4}|PubsiteApi\\PubsiteApi.csproj|solutionrelative:pubsiteapi\\controllers\\pubsitedatanewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCDDataController.cs",
+              "DocumentMoniker": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\CCDDataController.cs",
+              "RelativeDocumentMoniker": "PubsiteApi\\Controllers\\CCDDataController.cs",
+              "ToolTip": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\CCDDataController.cs",
+              "RelativeToolTip": "PubsiteApi\\Controllers\\CCDDataController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAwwAMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:33:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticClass.cs",
+              "DocumentMoniker": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\StaticClass.cs",
+              "RelativeDocumentMoniker": "PubsiteApi\\Controllers\\StaticClass.cs",
+              "ToolTip": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\StaticClass.cs",
+              "RelativeToolTip": "PubsiteApi\\Controllers\\StaticClass.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:07:29.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PubSiteDataController.cs",
+              "DocumentMoniker": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\PubSiteDataController.cs",
+              "RelativeDocumentMoniker": "PubsiteApi\\Controllers\\PubSiteDataController.cs",
+              "ToolTip": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\PubSiteDataController.cs",
+              "RelativeToolTip": "PubsiteApi\\Controllers\\PubSiteDataController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:10:02.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PubSiteDataNewController.cs",
+              "DocumentMoniker": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\PubSiteDataNewController.cs",
+              "RelativeDocumentMoniker": "PubsiteApi\\Controllers\\PubSiteDataNewController.cs",
+              "ToolTip": "C:\\office\\Terminus\\TerminusNew\\terminus\\Pubsite_api_code - EventuallyTerminusDataMigration\\TFS New API\\PubsiteApi\\Controllers\\PubSiteDataNewController.cs",
+              "RelativeToolTip": "PubsiteApi\\Controllers\\PubSiteDataNewController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAUwJgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:08:42.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
